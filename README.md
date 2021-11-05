@@ -5,10 +5,7 @@
 * 🌱 I’m using React with TypeScript
 * ⚙️ Also I like NextJS (SSR based on React)
 * 🖥️ I always use Vercel with it's serverless functions for deploying
-
-### Codewars
-
-<img align="left" alt="Codewars" width="316px" src="https://www.codewars.com/users/Miroslavetsh/badges/large" />
+* <img align="left" alt="Codewars" width="316px" src="https://www.codewars.com/users/Miroslavetsh/badges/large" /> And I am interested in Codewars Katas
 
 ### Languages and Tools:
 
