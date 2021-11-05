@@ -22,4 +22,4 @@
 
 ### Codewars:
 
-<img align="left" alt="Codewars" width="126px" src="URL:https://www.codewars.com/users/Miroslavetsh/badges/large" />
+<img align="left" alt="Codewars" width="126px" src="https://www.codewars.com/users/Miroslavetsh/badges/large" />
