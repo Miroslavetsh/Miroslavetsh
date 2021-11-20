@@ -5,7 +5,7 @@
 * 🌱 I’m using React with TypeScript
 * ⚙️ Also I like NextJS (SSR based on React)
 * 🖥️ I always use Vercel with it's serverless functions for deploying
-* <img align="left" alt="Codewars" width="316px" src="https://www.codewars.com/users/Miroslavetsh/badges/large" /> And I am interested in solving Codewars Katas
+* [<img align="left" alt="Codewars" width="316px" src="https://www.codewars.com/users/Miroslavetsh/badges/large" />](www.codewars.com/r/Lfcpfg) And I am interested in solving Codewars Katas
 
 ### Languages and Tools:
 
